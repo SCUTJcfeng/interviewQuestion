@@ -4,11 +4,11 @@
 Project: interviewTest
 Author: jc feng (jcfeng2013@gmail.com)
 File Created: 2019-06-05 20:14:11
-Last Modified: 2019-06-05 20:49:53
+Last Modified: 2019-06-05 20:54:58
 '''
 
 '''
-有36辆自动×××和6条跑道，没有计时器的前提下，最少用几次比赛可以筛选出最快的三辆×××？
+有 36 辆车和 6 条跑道，没有计时器的前提下，最少用几次比赛可以筛选出最快的三辆？
 '''
 
 '''answer 1
